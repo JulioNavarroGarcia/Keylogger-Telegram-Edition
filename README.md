@@ -1,7 +1,7 @@
 ## Keylogger-Telegram-Edition
 Este proyecto es un Keylogger educativo en Python, este registra las pulsaciones del teclado y las envía en tiempo real a Telegram mediante un bot.
 
-> **Aviso:** Proyecto desarrollado con fines estrictamente educativos y de investigación en ciberseguridad.
+> **Aviso:** Este es un proyecto desarrollado por bySofto con fines estrictamente educativos, de concienciación y sobre todo de investigación en ciberseguridad. Su objetivo es analizar el funcionamiento de los hooks de entrada y la detección defensiva de telemetría. El autor no se responsabiliza del uso indebido de este código en sistemas o redes sin autorización explícita.
 
 ## Requisitos
 
